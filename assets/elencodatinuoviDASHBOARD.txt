@@ -1,0 +1,463 @@
+Abarth 595
+Abarth 595C
+Alfa Romeo Stelvio
+Alfa Romeo Giulietta
+Alfa Romeo Giulia
+Aston Martin DB11
+Aston Martin DB11 Volante
+Aston Martin DBX
+Aston Martin DBS Superleggera
+Aston Martin Rapide S
+Aston Martin Vantage
+Audi A1 Sportback
+Citycarver Audi A1
+Audi A6
+Audi A6 Allroad Quattro
+Audi A6 Avant
+Audi A7 Sportback
+Audi a8
+Audi A3 berlina
+Audi A3 Sportback
+Audi A4
+Audi A4 Avant
+Audi A4 allroad Quattro
+Audi A5 Cabrio
+Audi A5 Coupé
+Audi A5 Sportback
+Audi Q7
+Audi RS 5 Coupé
+Audi RS4 Avant
+Audi RS5 Sportback
+Audi RS7 Sportback
+Audi S3 berlina
+Audi S3 Sportback
+Audi S6
+Audi S6 Avant
+Audi s8
+Audi Q2
+Audi Q3
+Audi Q3 Sportback
+Audi Q5
+Audi Q8
+Audi R8 Coupe
+Audi R8 Spyder
+Audi RS 6 Avant
+Audi RS Q3
+Audi RS Q3 Sportback
+Audi RS Q8
+Audi S4
+Audi S4 Avant
+Audi S5 Coupe
+Audi S5 Sportback
+Audi S7 Sportback
+Audi SQ5
+Audi SQ7
+Audi SQ8
+Audi TT Coupe
+Audi TT RS Coupé
+Audi TT RS Roadster
+Audi TT Roadster
+Audi TTS Coupé
+Audi TTS Roadster
+Audi e-tron
+Audi e-tron Sportback
+Bentley Bentayga
+Bentley Continental GT
+Bentley Continental GT convertibile
+Bentley Flying Spur
+Bentley Mulsanne
+BMW M8 decappottabile
+BMW M8 Coupé
+BMW M8 Gran Coupé
+BMW Serie 1
+BMW Serie 5
+BMW Serie 5 Touring
+BMW Serie 8 Cabriolet
+BMW Serie 8 Coupé
+BMW Serie 8 Gran Coupé
+BMW X1
+BMW X5
+BMW X6
+BMW X7
+BMW Serie 2 Active Tourer
+BMW Serie 2 Cabriolet
+BMW Serie 2 Coupé
+BMW Serie 2 Gran Coupé
+BMW Serie 2 Gran Tourer
+BMW Serie 3
+BMW Serie 3 Touring
+BMW Serie 4 Cabriolet
+BMW Serie 4 Coupé
+BMW Serie 4 Gran Coupé
+BMW Serie 6 Gran Turismo
+BMW Serie 7
+BMW X2
+BMW X3
+BMW X4
+Bmw z4
+BMW i3
+BMW iX3
+Citroën berlingo
+Citroën Berlingo 4 porte
+Citroën C-Elysée
+Citroën C1
+Citroën C1 Airscape 5 porte
+Citroën C3
+Citroën C3 Aircross
+Citroën C4
+Citroën ë-C4
+Citroën C4 Cactus
+Citroën C4 SpaceTourer
+Citroën Grand C4 SpaceTourer
+Citroën C5 Aircross
+Citroën C5 Aircross Hybrid
+Citroën SpaceTourer
+Citroën SpaceTourer 5 porte
+CUPRA Ateca
+CUPRA Formentor
+CUPRA Leon
+CUPRA Leon Sportstourer
+Dacia duster
+Dacia dokker
+Dacia Dokker 5 porte
+Dacia Lodgy
+Dacia logan
+Dacia Logan MCV
+Dacia Logan MCV Stepway
+Scaletta Dacia
+Dacia Sandero
+DS DS 3 Crossback
+DS DS 3 Crossback E-Tense
+DS DS 7 Crossback
+DS DS 7 Crossback E-Tense
+Ferrari F12 Berlinetta
+Ferrari California T
+Ferrari GTC4Lusso
+Ferrari 488 Spider
+Ferrari 488 GTB
+Fiat 500
+Fiat 500C
+Fiat 500L
+Fiat 500L Cross
+Fiat 500X Cross
+Fiat 500X Lounge
+Fiat 500X Sport
+Fiat raddoppiata
+Fiat panda
+Fiat panda 4x
+Fiat Panda City Cross
+Croce Fiat Panda
+Fiat qubo
+Tipo Fiat
+Fiat tipo 5 porte
+Fiat Tipo Station Wagon
+Ford EcoSport
+Ford Explorer
+Ford Fiesta
+Ford Fiesta 3 porte
+Ford Focus
+Ford Focus SportBreak
+Ford Galaxy
+Ford Grand Tourneo Connect
+Ford mondeo
+Ford Mondeo ibrida elettrica
+Ford Mondeo Electric Hybrid Sportbreak
+Ford Mondeo Sportbreak
+Ford Mustang decappottabile
+Ford Mustang Fastback
+Ford Kuga
+Ford Mustang Mach-E
+Ford Puma
+Ford S-Max
+Ford Tourneo Connect
+Corriere Ford Tourneo
+Ford Tourneo Custom
+Honda CR-V ibrida
+Honda Jazz Hybrid
+Honda Civic
+Honda HR-V
+Honda CR-V
+Honda Civic Sedan
+Honda civic type r
+Honda Honda e
+Hyundai tucson
+Hyundai kona
+Hyundai Kona Hybrid
+Hyundai i30
+Hyundai IONIQ ibrida plug-in
+Hyundai i20
+Hyundai nuova santa fe
+Hyundai Tucson Hybrid
+Hyundai IONIQ Hybrid
+Hyundai i10
+Hyundai i30 fastback
+Hyundai i20 Active
+Hyundai i30 cw
+Hyundai Kona Electric
+Hyundai i40
+Hyundai IONIQ Electric
+Hyundai H-1 Travel
+Jaguar E-Pace
+Jaguar F-Pace
+Jaguar XE
+Jaguar XF
+Jaguar XJ
+Jaguar XF Sportbrake
+Jaguar I-Pace
+Jaguar F-Type Convertible
+Jaguar F-Type Coupe
+Jeep Nuova Compass
+Jeep Compass 4xe
+Jeep rinnegata
+Jeep renegade 4xe
+Jeep wrangler
+Jeep wrangler unlimited
+Jeep cherokee
+Jeep grand cherokee
+Kia ceed
+Kia Ceed Tourer
+Kia Ceed Tourer ibrido plug-in
+Kia niro
+Kia Niro Plug-in Hybrid
+Kia New Sorento
+Kia Optima PHEV
+Kia Optima SW PHEV
+Kia picanto
+Kia ProCeed
+Kia Rio
+Kia Sportage
+Kia stinger
+Kia Stonic
+Kia XCeed
+Kia XCeed ibrido plug-in
+Kia e-Niro
+Kia e-Soul
+Land Rover Defender 110
+Land Rover Defender 90
+Land Rover Discovery
+Land Rover Discovery Sport
+Land Rover Range Rover Evoque
+Land Rover Range Rover
+Land Rover Range Rover PHEV
+Land Rover Range Rover Sport
+Land Rover Range Rover Sport PHEV
+Land Rover Range Rover Velar
+Lexus CT ibrida
+Lexus UK
+Lexus IS
+Lexus LC
+Lexus LS
+Lexus NX 300h
+Lexus RC 300h
+Lexus RX ibrida
+Lexus UX
+Maserati Levante
+Maserati Ghibli
+Maserati Quattroporte
+Maserati MC20
+Mazda CX-3
+Mazda CX-30
+Mazda cx-5
+Mazda MX-30
+Mazda MX-5
+Mazda MX-5 RF
+Mazda mazda2
+Mazda mazda3
+Mazda Mazda3 Berlina
+Mazda Mazda6 Berlina
+Mercedes-Benz AMG GT
+Mercedes-Benz AMG GT 4 porte
+Mercedes-Benz AMG GT Roadster
+Mercedes-Benz C
+Mercedes-Benz CLA Shooting Brake
+Mercedes-Benz CLS
+Mercedes-Benz Classe A.
+Mercedes-Benz Classe A Berlina
+Mercedes-Benz Classe B.
+Mercedes-Benz Classe C.
+Mercedes-Benz Classe C Cabrio
+Mercedes-Benz Classe C Coupé
+Mercedes-Benz Classe C station wagon
+Mercedes-Benz Classe E All-Terrain
+Mercedes-Benz Classe G.
+Mercedes-Benz Classe S.
+Mercedes-Benz Classe S Cabrio
+Mercedes-Benz Classe S Coupé
+Mercedes-Benz Classe V.
+Mercedes-Benz Classe V 4 porte
+Mercedes-Benz EQC
+Mercedes-Benz GLC
+Mercedes-Benz GLC Coupé
+Mercedes-Benz GLE Coupé
+Mercedes-Benz GLE SUV
+Mercedes-Benz GLS
+Mercedes-Benz Classe E Berlina
+Mercedes-Benz Classe E Cabrio
+Mercedes-Benz Classe E Coupé
+Mercedes-Benz Classe E station wagon
+Mercedes-Benz EQV
+Mercedes-Benz GLA
+Mercedes-Benz GLB
+MINI Cooper SE
+MINI MINI 3 porte
+MINI MINI 5 porte
+MINI MINI Cabrio
+MINI MINI Clubman
+MINI MINI Countryman
+MINI MINI Countryman ibrida plug-in
+Mitsubishi ASX
+Mitsubishi eclipse cross
+Outlander di Mitsubishi
+Mitsubishi Outlander PHEV
+Mitsubishi Space Star
+Nissan 370Z
+Nissan 370Z roadster
+Nissan gt-r
+Nissan juke
+Foglia di Nissan
+Nissan micra
+Nissan qashqai
+Nissan X-TRAIL
+Nissan e-NV200 EVALIA
+Opel Combo Life
+Opel Combo Life 4 porte
+Opel Crossland X
+Opel Grandland X
+Opel Grandland X ibrida plug-in
+Opel Astra
+Opel Astra Sports Tourer
+Opel corsa
+Opel Corsa-e
+Opel Insignia Grand Sport
+Opel Insignia Sports Tourer
+Opel Mokka
+Opel Mokka-e
+Opel Zafira Life
+Opel Zafira Life 5 porte
+Peugeot 108
+Peugeot 108 TOP!
+Peugeot 308
+Peugeot 308 SW
+Peugeot 508
+Peugeot 2008
+Peugeot 208
+Peugeot 3008
+Peugeot 5008
+Peugeot 508 SW
+Peugeot e-2008
+Peugeot e-208
+Peugeot Rifter
+Peugeot Traveller
+Peugeot Traveller 5 porte
+Porsche 718 boxster
+Porsche 718 Cayman
+Porsche 911
+Porsche 911 Cabrio
+Porsche 911 targa
+Porsche Cayenne
+Porsche Cayenne coupé
+Porsche macan
+Porsche Panamera
+Porsche Panamera Sport Turismo
+Porsche taycan
+Renault Grand Scénic
+Renault kadjar
+Renault Kangoo Combi 5 porte
+Renault koleos
+Renault Captur
+Renault clio
+Renault espace
+Renault megane
+Renault Megane Sport Tourer
+Renault ZOE
+Renault Scénic
+Talismano Renault
+Renault Talisman Sport Tourer
+Renault twingo
+SEAT Alhambra
+SEAT Arona
+SEAT Ibiza
+SEAT Leon
+SEAT Leon ST
+SEAT Mii
+SEAT Mii elettrico
+SEAT Ateca
+SEAT Leon Sportstourer
+SEAT Tarraco
+ŠKODA Fabia
+ŠKODA Fabia Combi
+ŠKODA Kamiq
+ŠKODA Karoq
+ŠKODA Kodiaq
+ŠKODA Citigo IV
+ŠKODA Octavia
+ŠKODA Octavia Combi
+ŠKODA Superb
+ŠKODA Superb Combi
+ŠKODA Scala
+Smart EQ forfour
+Smart EQ fortwo
+Smart EQ fortwo Cabrio
+SsangYong Korando
+SsangYong Tivoli
+Ssangyong rexton
+SsangYong XLV
+Subaru BRZ
+Subaru Impreza
+Subaru levorg
+Subaru Forester ecoHybrid
+Subaru XV
+Subaru XV ecoHybrid
+Subaru Outback
+Suzuki ignis
+Suzuki Ignis ibrida
+Suzuki vitara
+Suzuki Vitara ibrida
+Suzuki s-cross
+Suzuki Swift
+Toyota Aygo 5 porte
+Toyota Corolla
+Toyota Corolla Berlina
+Toyota Corolla Touring Sports
+Toyota GT86
+Toyota Land Cruiser
+Toyota Land Cruiser 3 porte
+Toyota C-HR
+Toyota Camry
+Toyota GR Supra
+Toyota Proace City Verso
+Toyota yaris
+Toyota Prius
+Toyota Prius +
+Toyota Proace Verso
+Toyota Proace Verso 4 porte
+Toyota RAV4
+Volkswagen arteon
+Caddy Volkswagen
+Volkswagen california
+Volkswagen California 5 porte
+Volkswagen caravelle
+Volkswagen golf
+Volkswagen Golf GT
+Variante Volkswagen golf
+Volkswagen ID.3
+Volkswagen multivan
+Volkswagen Multivan 4 porte
+Volkswagen Arteon Shooting Brake
+Volkswagen Golf GTI
+Variante Volkswagen golf
+Volkswagen ID.4
+Volkswagen passat
+Volkswagen Passat Alltrack
+Variante Volkswagen Passat
+Volkswagen T-Cross
+Volkswagen T-Roc Cabrio
+Volkswagen tiguan
+Volkswagen e-up
+Volkswagen polo
+Volkswagen sharan
+Volkswagen t-roc
+Volkswagen Tiguan Allspace
+Volkswagen touareg
+Volkswagen touran
+Volkswagen e-Golf
